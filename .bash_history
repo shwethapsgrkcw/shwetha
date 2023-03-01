@@ -21,3 +21,13 @@ git remote -v
 git add .
 git commit -m"first commit"
 git push origin master
+LS
+cd " c:\C:\shwetha"
+LS
+git init
+git remote and origin https://github.com/shwethapsgrkcw/shwetha123.git
+git remote -v
+git add .
+git commit -m "first commit"
+git push origin master
+git push origin master
